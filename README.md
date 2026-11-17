@@ -26,7 +26,7 @@ Health Informatics student (5th semester) at TH Deggendorf, based in Munich. I b
 
 ## Projects
 
-- **Sleep Quality API** (Python, FastAPI, PostgreSQL, Docker Compose): REST API for sleep records with a scoring endpoint and API key auth, deployed to Render.
+- **[Sleep Quality API](https://github.com/azizi23507/SleepQualityAPI)** (Python, FastAPI, PostgreSQL, Docker Compose): REST API for sleep records with a scoring endpoint and API key auth, deployed to Render.
 - **[Sleep Monitoring System](https://github.com/azizi23507/sleep-monitoring)** (Raspberry Pi, Rust, Python, FHIR): sleep monitoring with a Rust backend and live dashboard, with health data structured in FHIR using LOINC.
 - **[EHR Information System](https://github.com/azizi23507/ehr_system)** (PHP, SQL, JavaScript): web system for patient records, appointments and medical documentation.
 
