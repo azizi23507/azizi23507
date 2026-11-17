@@ -36,9 +36,6 @@ Health Informatics student (5th semester) at TH Deggendorf, based in Munich. I b
 - Award for Outstanding Academic Achievement, Health Informatics, TH Deggendorf (2026)
 - Google IT Support Certificate
 
-## Languages
-
-Dari (native), English (C1), German (B1)
 
 ## Contact
 
